@@ -36,4 +36,4 @@ const { marker } = await quickExit("did:web:platform.example");
 
 **[Website](https://cellar-door.dev)** · **[Paper](https://cellar-door.dev/paper/)** · **[The Story](https://cellar-door.dev/story/)** · **[NIST Submission](https://cellar-door.dev/nist/)** · **[Policy Briefs](https://cellar-door.dev/briefs/)**
 
-Submitted to NIST on March 6, 2026. Open source, Apache 2.0. *You can always leave.*
+Submitted to NIST on March 6, 2026. Open source, Apache 2.0. *There's always a door.*
